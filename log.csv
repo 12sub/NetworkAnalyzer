@@ -1,0 +1,85 @@
+,iface,Download,Upload,upload_speed,download_speed
+0,Ethernet 2,0.00B,0.00B,0.00B/s,0.00B/s
+1,Ethernet 6,0.00B,0.00B,0.00B/s,0.00B/s
+2,Ethernet 7,0.00B,0.00B,0.00B/s,0.00B/s
+3,Ethernet 8,0.00B,0.00B,0.00B/s,0.00B/s
+4,Local Area Connection* 3,0.00B,0.00B,0.00B/s,0.00B/s
+5,Local Area Connection* 4,0.00B,0.00B,0.00B/s,0.00B/s
+6,VMware Network Adapter VMnet1,0.00B,1.62KB,0.00B/s,0.00B/s
+7,VMware Network Adapter VMnet8,0.00B,1.62KB,0.00B/s,0.00B/s
+8,Wi-Fi 2,82.23MB,2.56MB,0.00B/s,0.00B/s
+9,Bluetooth Network Connection 2,0.00B,0.00B,0.00B/s,0.00B/s
+10,Loopback Pseudo-Interface 1,0.00B,0.00B,0.00B/s,0.00B/s
+11,vEthernet (WSL (Hyper-V firewall)),4.95KB,2.56MB,0.00B/s,0.00B/s
+0,Ethernet 2,0.00B,0.00B,0.00B/s,0.00B/s
+1,Ethernet 6,0.00B,0.00B,0.00B/s,0.00B/s
+2,Ethernet 7,0.00B,0.00B,0.00B/s,0.00B/s
+3,Ethernet 8,0.00B,0.00B,0.00B/s,0.00B/s
+4,Local Area Connection* 3,0.00B,0.00B,0.00B/s,0.00B/s
+5,Local Area Connection* 4,0.00B,0.00B,0.00B/s,0.00B/s
+6,VMware Network Adapter VMnet1,0.00B,1.62KB,0.00B/s,0.00B/s
+7,VMware Network Adapter VMnet8,0.00B,1.62KB,0.00B/s,0.00B/s
+8,Wi-Fi 2,82.23MB,2.56MB,0.00B/s,0.00B/s
+9,Bluetooth Network Connection 2,0.00B,0.00B,0.00B/s,0.00B/s
+10,Loopback Pseudo-Interface 1,0.00B,0.00B,0.00B/s,0.00B/s
+11,vEthernet (WSL (Hyper-V firewall)),4.95KB,2.56MB,0.00B/s,0.00B/s
+0,Ethernet 2,0.00B,0.00B,0.00B/s,0.00B/s
+1,Ethernet 6,0.00B,0.00B,0.00B/s,0.00B/s
+2,Ethernet 7,0.00B,0.00B,0.00B/s,0.00B/s
+3,Ethernet 8,0.00B,0.00B,0.00B/s,0.00B/s
+4,Local Area Connection* 3,0.00B,0.00B,0.00B/s,0.00B/s
+5,Local Area Connection* 4,0.00B,0.00B,0.00B/s,0.00B/s
+6,VMware Network Adapter VMnet1,0.00B,1.62KB,0.00B/s,0.00B/s
+7,VMware Network Adapter VMnet8,0.00B,1.62KB,0.00B/s,0.00B/s
+8,Wi-Fi 2,82.23MB,2.56MB,0.00B/s,0.00B/s
+9,Bluetooth Network Connection 2,0.00B,0.00B,0.00B/s,0.00B/s
+10,Loopback Pseudo-Interface 1,0.00B,0.00B,0.00B/s,0.00B/s
+11,vEthernet (WSL (Hyper-V firewall)),4.95KB,2.56MB,0.00B/s,0.00B/s
+0,Ethernet 2,0.00B,0.00B,0.00B/s,0.00B/s
+1,Ethernet 6,0.00B,0.00B,0.00B/s,0.00B/s
+2,Ethernet 7,0.00B,0.00B,0.00B/s,0.00B/s
+3,Ethernet 8,0.00B,0.00B,0.00B/s,0.00B/s
+4,Local Area Connection* 3,0.00B,0.00B,0.00B/s,0.00B/s
+5,Local Area Connection* 4,0.00B,0.00B,0.00B/s,0.00B/s
+6,VMware Network Adapter VMnet1,0.00B,1.62KB,0.00B/s,0.00B/s
+7,VMware Network Adapter VMnet8,0.00B,1.62KB,0.00B/s,0.00B/s
+8,Wi-Fi 2,82.23MB,2.56MB,0.00B/s,0.00B/s
+9,Bluetooth Network Connection 2,0.00B,0.00B,0.00B/s,0.00B/s
+10,Loopback Pseudo-Interface 1,0.00B,0.00B,0.00B/s,0.00B/s
+11,vEthernet (WSL (Hyper-V firewall)),4.95KB,2.56MB,0.00B/s,0.00B/s
+0,Ethernet 2,0.00B,0.00B,0.00B/s,0.00B/s
+1,Ethernet 6,0.00B,0.00B,0.00B/s,0.00B/s
+2,Ethernet 7,0.00B,0.00B,0.00B/s,0.00B/s
+3,Ethernet 8,0.00B,0.00B,0.00B/s,0.00B/s
+4,Local Area Connection* 3,0.00B,0.00B,0.00B/s,0.00B/s
+5,Local Area Connection* 4,0.00B,0.00B,0.00B/s,0.00B/s
+6,VMware Network Adapter VMnet1,0.00B,1.62KB,0.00B/s,0.00B/s
+7,VMware Network Adapter VMnet8,0.00B,1.62KB,0.00B/s,0.00B/s
+8,Wi-Fi 2,82.24MB,2.57MB,0.00B/s,0.00B/s
+9,Bluetooth Network Connection 2,0.00B,0.00B,0.00B/s,0.00B/s
+10,Loopback Pseudo-Interface 1,0.00B,0.00B,0.00B/s,0.00B/s
+11,vEthernet (WSL (Hyper-V firewall)),4.95KB,2.56MB,0.00B/s,0.00B/s
+0,Ethernet 2,0.00B,0.00B,0.00B/s,0.00B/s
+1,Ethernet 6,0.00B,0.00B,0.00B/s,0.00B/s
+2,Ethernet 7,0.00B,0.00B,0.00B/s,0.00B/s
+3,Ethernet 8,0.00B,0.00B,0.00B/s,0.00B/s
+4,Local Area Connection* 3,0.00B,0.00B,0.00B/s,0.00B/s
+5,Local Area Connection* 4,0.00B,0.00B,0.00B/s,0.00B/s
+6,VMware Network Adapter VMnet1,0.00B,1.62KB,0.00B/s,0.00B/s
+7,VMware Network Adapter VMnet8,0.00B,1.62KB,0.00B/s,0.00B/s
+8,Wi-Fi 2,82.24MB,2.57MB,0.00B/s,0.00B/s
+9,Bluetooth Network Connection 2,0.00B,0.00B,0.00B/s,0.00B/s
+10,Loopback Pseudo-Interface 1,0.00B,0.00B,0.00B/s,0.00B/s
+11,vEthernet (WSL (Hyper-V firewall)),4.95KB,2.56MB,0.00B/s,0.00B/s
+0,Ethernet 2,0.00B,0.00B,0.00B/s,0.00B/s
+1,Ethernet 6,0.00B,0.00B,0.00B/s,0.00B/s
+2,Ethernet 7,0.00B,0.00B,0.00B/s,0.00B/s
+3,Ethernet 8,0.00B,0.00B,0.00B/s,0.00B/s
+4,Local Area Connection* 3,0.00B,0.00B,0.00B/s,0.00B/s
+5,Local Area Connection* 4,0.00B,0.00B,0.00B/s,0.00B/s
+6,VMware Network Adapter VMnet1,0.00B,1.62KB,0.00B/s,0.00B/s
+7,VMware Network Adapter VMnet8,0.00B,1.62KB,0.00B/s,0.00B/s
+8,Wi-Fi 2,82.24MB,2.57MB,0.00B/s,0.00B/s
+9,Bluetooth Network Connection 2,0.00B,0.00B,0.00B/s,0.00B/s
+10,Loopback Pseudo-Interface 1,0.00B,0.00B,0.00B/s,0.00B/s
+11,vEthernet (WSL (Hyper-V firewall)),4.95KB,2.56MB,0.00B/s,0.00B/s
